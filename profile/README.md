@@ -354,38 +354,6 @@ See our [Contributing Guide](https://github.com/krypt-io/krypt/blob/main/CONTRIB
 
 ---
 
-## 💬 Community
-
-Join our growing community of developers and security professionals:
-
-- 💬 **Discord** — [discord.gg/krypt](https://discord.gg/krypt) — Real-time chat and support
-- 🐦 **Twitter** — [@krypt_io](https://twitter.com/krypt_io) — News and announcements
-- 📧 **Mailing List** — [lists.krypt.io](https://lists.krypt.io) — Weekly updates
-- 📺 **YouTube** — [Krypt Channel](https://youtube.com/@krypt-io) — Tutorials and talks
-
-### Getting Help
-
-- 📖 Check the [Documentation](https://docs.krypt.io)
-- 🔍 Search [GitHub Issues](https://github.com/krypt-io/krypt/issues)
-- 💬 Ask in [Discord #help](https://discord.gg/krypt)
-- 📧 Email [support@krypt.io](mailto:support@krypt.io)
-
----
-
-## 🏢 Enterprise
-
-Need enterprise features or support? We offer:
-
-- **Priority Support** — 24/7 SLA-backed support
-- **Custom Integrations** — Tailored solutions for your stack
-- **Training** — On-site and remote training sessions
-- **Compliance** — Assistance with SOC2, HIPAA, PCI-DSS
-- **Professional Services** — Architecture review and deployment
-
-📧 Contact us at [enterprise@krypt.io](mailto:enterprise@krypt.io)
-
----
-
 ## 🙏 Acknowledgements
 
 Krypt is built on the shoulders of giants. We thank the maintainers of:
